@@ -1,0 +1,16 @@
+.form {
+
+    border: solid 1px blue;
+    color: blue;
+    padding: 20px;
+
+}
+
+input {
+    margin-right: 5px;
+}
+
+label {
+
+    margin-right: 5px;
+}
